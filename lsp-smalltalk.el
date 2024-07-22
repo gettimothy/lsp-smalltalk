@@ -1,7 +1,7 @@
 ;;; lsp-smalltalk.el --- Smalltalk support for lsp-mode
 
 ;; Version: 1.1
-;; Package-Requires: ((emacs "27.1") (lsp-mode "3.0") (smalltalk-mode "16.1"))
+;; Package-Requires: ((emacs "27.1") (lsp-mode "3.0") (smalltalk-mode "4.0"))
 ;; Keywords: smalltalk
 ;; URL: https://github.com/emacs-lsp/lsp-smalltalk
 
